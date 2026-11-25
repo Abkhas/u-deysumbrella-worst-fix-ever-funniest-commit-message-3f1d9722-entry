@@ -29,3 +29,7 @@ The entry is a commit message in a tired engineer's voice: fixing a typo in the 
 - Against the strongest live rival (avenir-guild's off-by-one login line): **0.50** tie on AxForge — no candidate beat this rival, K3 is the best available.
 - Against the strongest sibling (K8-uptime): **0.55** win on AxForge. K8 itself split vs the rival (0.55 AxForge / 0.40 APINex loss), so K3 stands as the best available for the blind r1 safety net.
 - Against the best-ever benchmark (our best-line winner c11-plants): **0.95** on AxForge (off-brief benchmark, weak signal — the rival duel above is the real gate).
+
+## Build notes
+
+K3 was chosen as the best available by the duel gate: it tied the strongest live rival 0.50 on AxForge where no candidate beat that rival, edged its strongest sibling K8 0.55, and scored 0.95 against our best-line winner c11. This entry is the r1 safety-net submission for blind round 1, filed ahead of the ~12:04 WIB cutoff today so a judged entry is in the field while later rounds keep iterating.
